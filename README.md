@@ -1,6 +1,6 @@
 ### Hi there 👋, Aqeed Ghazal
 #### Civil Engineer  | Full Stack Developer 
-![Civil Engineer  | Full Stack Developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Civil Engineer  | Full Stack Developer ](https://github.com/AqeedGhazal/AqeedGhazal/blob/main/My%20project-2.jpg)
 
 Future Full Stack Developer who fell in love with coding! I really enjoy learning new technologies , language , and frameworks . I have experience with a variety of programming languages and frameworks, including JavaScript, python and Django. I am always eager to learn new technologies and stay up-to-date with the latest industry trends , I came from a non-traditional coding background. I studied Civil Engineering at Al-Najah National University and I have 7 years of experience in construction Field , 
 
