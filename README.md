@@ -1,4 +1,4 @@
-![Civil Engineer  | Full Stack Developer ](https://github.com/AqeedGhazal/AqeedGhazal/blob/main/My%20project-2.jpg)
+![Civil Engineer  | Full Stack Developer ](https://github.com/AqeedGhazal/AqeedGhazal/blob/main/Capture.JPG)
 
 # Aqeed Ghazal
 #### Civil Engineer | Full Stack Developer 
